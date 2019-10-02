@@ -7,6 +7,8 @@ https://github.com/laravel-notification-channels/sms-broadcast
 Please update you composer.json to the new location.
 The namespacing has not changed, so you can just swap the packages out.
 
+<hr>
+## Old Readme
 
 
 This package makes it easy to send notifications using [Sms Broadcast](https://www.smsbroadcast.com.au/) with Laravel > 5.6.
